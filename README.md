@@ -2,7 +2,7 @@
 
 ## Short
 
-Gary Ewan Park works full time on Chocolatey, the package manager for Windows.
+Gary Ewan Park works full time on Chocolatey CLI, the package manager for Windows.
 
 ## Full
 
